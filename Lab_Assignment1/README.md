@@ -2,7 +2,7 @@
 
 **Group Members:**
 - Haider Rizvi (UCID: 12345678)
-- Md Nazmul Hussain (UCID: 30219789)
+- Md Nazmul Hossain (UCID: 30219789)
 - Mohammad Abo Suleiman (UCID: 30153737)
 - Mohammad Iftekhar Hossain (UCID: 30226962)
 
