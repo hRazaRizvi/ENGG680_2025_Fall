@@ -7,4 +7,4 @@
 - Mohammad Iftekhar Hossain (UCID: 30226962)
 
 **Description**
-This assignment introduces Python fundamentals and version control. Furthermore, we will also use Python CLasses and Functions in Least Square method.
+This assignment introduces Python fundamentals and version control. Furthermore, we will also use Python classes and functions in Least Square method.
