@@ -8,5 +8,5 @@
 
 
 
-Description This assignment covers least square estimation and other machine learning fundamentals. Furthermore, the objective of this assignment is to implement gradient descent, logistic regression, non-linear LSE problems using Python.
+**Description:** This assignment covers least square estimation and other machine learning fundamentals. Furthermore, the objective of this assignment is to implement gradient descent, logistic regression, non-linear LSE problems using Python.
 
