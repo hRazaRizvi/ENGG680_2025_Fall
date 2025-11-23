@@ -1,4 +1,0 @@
-Branch: test_branch_nazmul
-Created by: nazmul-meng
-Purpose: Testing and assignments
-Parent: main branch
